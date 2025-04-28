@@ -1,0 +1,47 @@
+Discovery ID,Discovery Item,Case,Case ID,Type,Direction,Status,Notes
+discovery_1,Initial Disclosure Sent - Deshawn E. White,Deshawn E. White,009c0480-b529-4185-892b-303c5a47968f,Initial Disclosure,Sent,Pending,Yes - in CC
+discovery_2,Initial Disclosure Sent - Ash Abraham,Ash Abraham,19893ca5-3600-40ce-afad-a4732550ff85,Initial Disclosure,Sent,Complete,
+discovery_3,Initial Disclosure Received - Ash Abraham,Ash Abraham,19893ca5-3600-40ce-afad-a4732550ff85,Initial Disclosure,Received,Complete,
+discovery_4,Discovery Sent - Ash Abraham,Ash Abraham,19893ca5-3600-40ce-afad-a4732550ff85,Discovery Package,Sent,Complete,
+discovery_5,Discovery Received - Ash Abraham,Ash Abraham,19893ca5-3600-40ce-afad-a4732550ff85,Discovery Package,Received,Complete,
+discovery_6,Initial Disclosure Sent - Broderick Maddox,Broderick Maddox,24ebfef3-2f31-4412-b326-8bad24f7231c,Initial Disclosure,Sent,Complete,
+discovery_7,Initial Disclosure Received - Broderick Maddox,Broderick Maddox,24ebfef3-2f31-4412-b326-8bad24f7231c,Initial Disclosure,Received,Complete,
+discovery_8,Initial Disclosure Sent - Carter Alan,Carter Alan,40b8b7a2-de3d-400b-8c47-7354a63095e7,Initial Disclosure,Sent,Complete,
+discovery_9,Initial Disclosure Received - Carter Alan,Carter Alan,40b8b7a2-de3d-400b-8c47-7354a63095e7,Initial Disclosure,Received,Complete,
+discovery_10,Initial Disclosure Sent - Chris Lasseigne,Chris Lasseigne,8cfbb5b5-90a2-461d-87ad-e0ab921bae39,Initial Disclosure,Sent,Complete,
+discovery_11,Initial Disclosure Received - Chris Lasseigne,Chris Lasseigne,8cfbb5b5-90a2-461d-87ad-e0ab921bae39,Initial Disclosure,Received,Complete,
+discovery_12,Discovery Sent - Chris Lasseigne,Chris Lasseigne,8cfbb5b5-90a2-461d-87ad-e0ab921bae39,Discovery Package,Sent,Complete,
+discovery_13,Discovery Received - Chris Lasseigne,Chris Lasseigne,8cfbb5b5-90a2-461d-87ad-e0ab921bae39,Discovery Package,Received,Complete,
+discovery_14,Initial Disclosure Sent - Cory Brady Alford,Cory Brady Alford,a0a5bfdb-057f-48df-a114-374eb21e7712,Initial Disclosure,Sent,Pending,No - in progress
+discovery_15,Discovery Sent - Cory Brady Alford,Cory Brady Alford,a0a5bfdb-057f-48df-a114-374eb21e7712,Discovery Package,Sent,Complete,
+discovery_16,Discovery Received - Cory Brady Alford,Cory Brady Alford,a0a5bfdb-057f-48df-a114-374eb21e7712,Discovery Package,Received,Complete,
+discovery_17,Initial Disclosure Sent - Dru Meadows,Dru Meadows,89685b04-98ed-48fe-821a-a1f5bebd148c,Initial Disclosure,Sent,Complete,
+discovery_18,Initial Disclosure Received - Dru Meadows,Dru Meadows,89685b04-98ed-48fe-821a-a1f5bebd148c,Initial Disclosure,Received,Complete,
+discovery_19,Discovery Sent - Dru Meadows,Dru Meadows,89685b04-98ed-48fe-821a-a1f5bebd148c,Discovery Package,Sent,Complete,
+discovery_20,Discovery Received - Dru Meadows,Dru Meadows,89685b04-98ed-48fe-821a-a1f5bebd148c,Discovery Package,Received,Complete,
+discovery_21,Initial Disclosure Sent - Estate of Mohammad Abu Rub,Estate of Mohammad Abu Rub,1cb8662b-dd42-4d90-859b-820e5c78f977,Initial Disclosure,Sent,Complete,
+discovery_22,Initial Disclosure Received - Estate of Mohammad Abu Rub,Estate of Mohammad Abu Rub,1cb8662b-dd42-4d90-859b-820e5c78f977,Initial Disclosure,Received,Complete,
+discovery_23,Initial Disclosure Sent - Estevan Gutierrez,Estevan Gutierrez,f5834a79-7f0d-4566-971a-154f59d84092,Initial Disclosure,Sent,Complete,
+discovery_24,Initial Disclosure Received - Estevan Gutierrez,Estevan Gutierrez,f5834a79-7f0d-4566-971a-154f59d84092,Initial Disclosure,Received,Complete,
+discovery_25,Discovery Sent - Estevan Gutierrez,Estevan Gutierrez,f5834a79-7f0d-4566-971a-154f59d84092,Discovery Package,Sent,Complete,
+discovery_26,Discovery Received - Estevan Gutierrez,Estevan Gutierrez,f5834a79-7f0d-4566-971a-154f59d84092,Discovery Package,Received,Complete,
+discovery_27,"Initial Disclosure Sent - Olofsson, Fredrik","Olofsson, Fredrik",88a72b5e-834d-4062-8fe1-8bd4aecd0008,Initial Disclosure,Sent,Complete,
+discovery_28,"Initial Disclosure Received - Olofsson, Fredrik","Olofsson, Fredrik",88a72b5e-834d-4062-8fe1-8bd4aecd0008,Initial Disclosure,Received,Complete,
+discovery_29,"Discovery Sent - Olofsson, Fredrik","Olofsson, Fredrik",88a72b5e-834d-4062-8fe1-8bd4aecd0008,Discovery Package,Sent,Complete,
+discovery_30,"Discovery Received - Olofsson, Fredrik","Olofsson, Fredrik",88a72b5e-834d-4062-8fe1-8bd4aecd0008,Discovery Package,Received,Complete,
+discovery_31,Initial Disclosure Sent - Shaikh Sadiqur Rahman,Shaikh Sadiqur Rahman,d2bf5891-6648-4819-8e29-68aa2d3ab494,Initial Disclosure,Sent,Complete,
+discovery_32,Initial Disclosure Received - Shaikh Sadiqur Rahman,Shaikh Sadiqur Rahman,d2bf5891-6648-4819-8e29-68aa2d3ab494,Initial Disclosure,Received,Complete,
+discovery_33,Discovery Sent - Shaikh Sadiqur Rahman,Shaikh Sadiqur Rahman,d2bf5891-6648-4819-8e29-68aa2d3ab494,Discovery Package,Sent,Complete,
+discovery_34,Discovery Received - Shaikh Sadiqur Rahman,Shaikh Sadiqur Rahman,d2bf5891-6648-4819-8e29-68aa2d3ab494,Discovery Package,Received,Complete,
+discovery_35,Initial Disclosure Sent - William Jones,William Jones,2aa91ebb-18fe-4137-9eef-489fcde0d3bf,Initial Disclosure,Sent,Pending,Just filed with AAA
+discovery_36,Initial Disclosure Sent - Derek Moore,Derek Moore,728c5cd9-c8db-4e05-b7b8-0d72c8804f4e,Initial Disclosure,Sent,Pending,Initial disclosures due 4/30
+discovery_37,Initial Disclosure Sent - Carlos Mandique,Carlos Mandique,7fccebf4-94f7-4671-8f87-b09a887351f2,Initial Disclosure,Sent,Complete,
+discovery_38,Initial Disclosure Sent - Glenn Edwards,Glenn Edwards,a4aeb80f-4a87-45c5-8cca-abd859de64b2,Initial Disclosure,Sent,Pending,Radio silence from client.
+discovery_39,Initial Disclosure Sent - Mitch Abeita,Mitch Abeita,be34e12f-4da3-43b6-bb44-829e8a68cb32,Initial Disclosure,Sent,Pending,Dropping?
+discovery_40,Initial Disclosure Sent - Salah Taamneh,Salah Taamneh,5ff180af-16da-44c1-b518-d58de1d77e72,Initial Disclosure,Sent,Pending,Khal trying to settle.
+discovery_41,Initial Disclosure Sent - Niki Ellis,Niki Ellis,bc169b0f-1e39-4ded-8522-181f127ff86f,Initial Disclosure,Sent,Pending,NOT FILED
+discovery_42,Initial Disclosure Sent - Anvar Sayfatov,Anvar Sayfatov,bff560bf-5172-48bd-950d-10689eafa637,Initial Disclosure,Sent,Pending,NOT FILED
+discovery_43,Initial Disclosure Sent - Carlos Orozco,Carlos Orozco,0c24d2fb-57e5-45ca-8ab0-4d6726e91f2b,Initial Disclosure,Sent,Pending,NOT FILED
+discovery_44,Initial Disclosure Sent - Kim Musser,Kim Musser,10cfad2a-6c98-4ac5-9b12-b52023d09fe1,Initial Disclosure,Sent,Pending,NOT FILED
+discovery_45,Initial Disclosure Sent - Octavia Alexander Egeonu,Octavia Alexander Egeonu,1e155ff1-eb90-4505-a7a9-1f8f396328b9,Initial Disclosure,Sent,Pending,NOT FILED
+discovery_46,Initial Disclosure Sent - Zachary Taylor,Zachary Taylor,b2d309f9-5c8e-482d-8ea5-a8e5ac83bde5,Initial Disclosure,Sent,Pending,NOT FILED

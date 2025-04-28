@@ -1,0 +1,33 @@
+Deadline ID,Deadline Name,Case,Case ID,Deadline Type,Deadline Date,Status,Notes
+deadline_1,Trial - Cory Brady Alford,Cory Brady Alford,a0a5bfdb-057f-48df-a114-374eb21e7712,Trial,2025-12-01,Upcoming,
+deadline_2,Mediation Deadline - Cory Brady Alford,Cory Brady Alford,a0a5bfdb-057f-48df-a114-374eb21e7712,Mediation,2025-11-03,Upcoming,
+deadline_3,Discovery Cutoff - Cory Brady Alford,Cory Brady Alford,a0a5bfdb-057f-48df-a114-374eb21e7712,Discovery,2025-08-22 00:00:00,Upcoming,
+deadline_4,Dispositive Motion - Cory Brady Alford,Cory Brady Alford,a0a5bfdb-057f-48df-a114-374eb21e7712,Dispositive Motion,2025-07-23 00:00:00,Upcoming,
+deadline_5,Expert Deadlines - Cory Brady Alford,Cory Brady Alford,a0a5bfdb-057f-48df-a114-374eb21e7712,Expert,,Upcoming,Plaintiff: 2025-06-04
+deadline_6,Trial - Ash Abraham,Ash Abraham,19893ca5-3600-40ce-afad-a4732550ff85,Trial,2025-09-22,Upcoming,
+deadline_7,Mediation Deadline - Ash Abraham,Ash Abraham,19893ca5-3600-40ce-afad-a4732550ff85,Mediation,2025-06-24,Upcoming,
+deadline_8,Mediation Date - Ash Abraham,Ash Abraham,19893ca5-3600-40ce-afad-a4732550ff85,Mediation,2025-05-19 00:00:00,Scheduled,
+deadline_9,Expert Deadlines - Ash Abraham,Ash Abraham,19893ca5-3600-40ce-afad-a4732550ff85,Expert,,Upcoming,Plaintiff: 2025-02-01 / Defendant: 2025-03-03 / Rebuttal: 2025-03-17
+deadline_10,Trial - Broderick Maddox,Broderick Maddox,24ebfef3-2f31-4412-b326-8bad24f7231c,Trial,2026-04-20,Upcoming,
+deadline_11,Mediation Deadline - Broderick Maddox,Broderick Maddox,24ebfef3-2f31-4412-b326-8bad24f7231c,Mediation,2025-11-20,Upcoming,
+deadline_12,Discovery Cutoff - Broderick Maddox,Broderick Maddox,24ebfef3-2f31-4412-b326-8bad24f7231c,Discovery,2026-01-15,Upcoming,
+deadline_13,Dispositive Motion - Broderick Maddox,Broderick Maddox,24ebfef3-2f31-4412-b326-8bad24f7231c,Dispositive Motion,2026-02-18,Upcoming,
+deadline_14,Expert Deadlines - Broderick Maddox,Broderick Maddox,24ebfef3-2f31-4412-b326-8bad24f7231c,Expert,,Upcoming,Plaintiff: 2025-08-28 / Defendant: 2025-09-25
+deadline_15,Trial - Chris Lasseigne,Chris Lasseigne,8cfbb5b5-90a2-461d-87ad-e0ab921bae39,Trial,2025-09-22,Upcoming,
+deadline_16,Discovery Cutoff - Chris Lasseigne,Chris Lasseigne,8cfbb5b5-90a2-461d-87ad-e0ab921bae39,Discovery,2025-08-22,Upcoming,
+deadline_17,Dispositive Motion - Chris Lasseigne,Chris Lasseigne,8cfbb5b5-90a2-461d-87ad-e0ab921bae39,Dispositive Motion,2025-07-23,Upcoming,
+deadline_18,Expert Deadlines - Chris Lasseigne,Chris Lasseigne,8cfbb5b5-90a2-461d-87ad-e0ab921bae39,Expert,,Upcoming,Plaintiff: 2024-12-06 / Defendant: 2025-01-06
+deadline_19,Trial - Estevan Gutierrez,Estevan Gutierrez,f5834a79-7f0d-4566-971a-154f59d84092,Trial,2025-08-27,Upcoming,
+deadline_20,Mediation Deadline - Estevan Gutierrez,Estevan Gutierrez,f5834a79-7f0d-4566-971a-154f59d84092,Mediation,2025-06-30,Upcoming,
+deadline_21,Discovery Cutoff - Estevan Gutierrez,Estevan Gutierrez,f5834a79-7f0d-4566-971a-154f59d84092,Discovery,2025-06-30,Upcoming,
+deadline_22,Dispositive Motion - Estevan Gutierrez,Estevan Gutierrez,f5834a79-7f0d-4566-971a-154f59d84092,Dispositive Motion,Open: 2025-04-15 / Resp: 2025-05-06 / Reply: 2025-05-13,Upcoming,
+deadline_23,Expert Deadlines - Estevan Gutierrez,Estevan Gutierrez,f5834a79-7f0d-4566-971a-154f59d84092,Expert,,Upcoming,Witness/Exhibits: 2025-07-15
+deadline_24,Trial - Spencer v. Urban Air,Spencer v. Urban Air,fdc93255-1f69-4ad2-9974-976c8c0fcd96,Trial,2025-06-05,Upcoming,
+deadline_25,Discovery Cutoff - Spencer v. Urban Air,Spencer v. Urban Air,fdc93255-1f69-4ad2-9974-976c8c0fcd96,Discovery,2025-05-02 00:00:00,Upcoming,
+deadline_26,Dispositive Motion - Spencer v. Urban Air,Spencer v. Urban Air,fdc93255-1f69-4ad2-9974-976c8c0fcd96,Dispositive Motion,2025-04-15 00:00:00,Upcoming,
+deadline_27,Expert Deadlines - Spencer v. Urban Air,Spencer v. Urban Air,fdc93255-1f69-4ad2-9974-976c8c0fcd96,Expert,,Upcoming,2025-03-03 00:00:00
+deadline_28,Trial - Estate of Mohammad Abu Rub,Estate of Mohammad Abu Rub,1cb8662b-dd42-4d90-859b-820e5c78f977,Trial,2026-03-23,Upcoming,
+deadline_29,Mediation Deadline - Estate of Mohammad Abu Rub,Estate of Mohammad Abu Rub,1cb8662b-dd42-4d90-859b-820e5c78f977,Mediation,2026-02-21,Upcoming,
+deadline_30,Discovery Cutoff - Estate of Mohammad Abu Rub,Estate of Mohammad Abu Rub,1cb8662b-dd42-4d90-859b-820e5c78f977,Discovery,2026-02-21,Upcoming,
+deadline_31,Dispositive Motion - Estate of Mohammad Abu Rub,Estate of Mohammad Abu Rub,1cb8662b-dd42-4d90-859b-820e5c78f977,Dispositive Motion,2026-02-21,Upcoming,
+deadline_32,Expert Deadlines - Estate of Mohammad Abu Rub,Estate of Mohammad Abu Rub,1cb8662b-dd42-4d90-859b-820e5c78f977,Expert,,Upcoming,Pltf: 2025-12-08 / Deft: 2025-12-23 / Rebuttal: 2026-01-07

@@ -1,0 +1,35 @@
+Motion ID,Motion/Hearing Name,Case,Case ID,Type,Status,Notes
+motion_1,Motion - Michael Schoellman,Michael Schoellman,d520ce1b-a9ac-4b05-8697-cb53f930efed,Motion,Pending,APPEAL
+motion_2,"Motion - Romaine v. K+K Associates, et al. (Severed)","Romaine v. K+K Associates, et al. (Severed)",4ae1fe90-0d17-46c4-af32-e19233123970,Motion,Pending,APPEAL
+motion_3,Motion - Deshawn E. White,Deshawn E. White,009c0480-b529-4185-892b-303c5a47968f,Motion,Pending,ORDER TO ARBITRATION
+motion_4,Deposition - Ash Abraham,Ash Abraham,19893ca5-3600-40ce-afad-a4732550ff85,Deposition,Scheduled,Yes - pending Mrs.
+motion_5,Mediation Status - Ash Abraham,Ash Abraham,19893ca5-3600-40ce-afad-a4732550ff85,Mediation,Pending,5/19/25 1:30PM
+motion_6,Motion - Ash Abraham,Ash Abraham,19893ca5-3600-40ce-afad-a4732550ff85,Motion,Pending,ORDER ON MSJ
+motion_7,Deposition - Broderick Maddox,Broderick Maddox,24ebfef3-2f31-4412-b326-8bad24f7231c,Deposition,Scheduled,In progress - Killion
+motion_8,Missing Pleadings - Carter Alan,Carter Alan,40b8b7a2-de3d-400b-8c47-7354a63095e7,Missing Pleadings,Action Required,NEED SCHEDULING ORDER
+motion_9,Deposition - Chris Lasseigne,Chris Lasseigne,8cfbb5b5-90a2-461d-87ad-e0ab921bae39,Deposition,Scheduled,Need DSI - in progress / Need WM - call with counsel on Friday
+motion_10,Mediation Status - Chris Lasseigne,Chris Lasseigne,8cfbb5b5-90a2-461d-87ad-e0ab921bae39,Mediation,Pending,Not scheduled.
+motion_11,Motion - Chris Lasseigne,Chris Lasseigne,8cfbb5b5-90a2-461d-87ad-e0ab921bae39,Motion,Pending,Need to figure out special setting since the court doesn't allow for them?
+motion_12,Motion - Colonial,Colonial,5fe2a8aa-902f-41da-bf1a-1b87d64d38a5,Motion,Pending,Appeal deadline 5/9/25
+motion_13,Deposition - Cory Brady Alford,Cory Brady Alford,a0a5bfdb-057f-48df-a114-374eb21e7712,Deposition,Scheduled,"Flagger, officer, and driver - complete."
+motion_14,Mediation Status - Cory Brady Alford,Cory Brady Alford,a0a5bfdb-057f-48df-a114-374eb21e7712,Mediation,Pending,Not scheduled.
+motion_15,Deposition - Dru Meadows,Dru Meadows,89685b04-98ed-48fe-821a-a1f5bebd148c,Deposition,Scheduled,Need to FU re JJ's Corp Rep
+motion_16,Mediation Status - Dru Meadows,Dru Meadows,89685b04-98ed-48fe-821a-a1f5bebd148c,Mediation,Pending,Not scheduled.
+motion_17,Mediation Status - Estate of Mohammad Abu Rub,Estate of Mohammad Abu Rub,1cb8662b-dd42-4d90-859b-820e5c78f977,Mediation,Pending,Not scheduled.
+motion_18,Deposition - Estevan Gutierrez,Estevan Gutierrez,f5834a79-7f0d-4566-971a-154f59d84092,Deposition,Scheduled,Ball dropped - need to confirm with EG and get final date for Corp Rep
+motion_19,Hearing - Estevan Gutierrez,Estevan Gutierrez,f5834a79-7f0d-4566-971a-154f59d84092,Hearing,Pending,Final hearing 8/27/25
+motion_20,Motion - Koziol v. Igloo,Koziol v. Igloo,438d82d0-8176-4748-b91d-bfc52ddce120,Motion,Pending,WAITING ON ORDER ON STAY
+motion_21,"Deposition - Olofsson, Fredrik","Olofsson, Fredrik",88a72b5e-834d-4062-8fe1-8bd4aecd0008,Deposition,Scheduled,Setting corp rep for week after mediation. Need to confirm.
+motion_22,"Mediation Status - Olofsson, Fredrik","Olofsson, Fredrik",88a72b5e-834d-4062-8fe1-8bd4aecd0008,Mediation,Pending,5/5/25 12:30 CDT
+motion_23,"Missing Pleadings - Olofsson, Fredrik","Olofsson, Fredrik",88a72b5e-834d-4062-8fe1-8bd4aecd0008,Missing Pleadings,Action Required,NEED SCHEDULING ORDER
+motion_24,Mediation Status - Shaikh Sadiqur Rahman,Shaikh Sadiqur Rahman,d2bf5891-6648-4819-8e29-68aa2d3ab494,Mediation,Pending,Not scheduled.
+motion_25,Missing Pleadings - Shaikh Sadiqur Rahman,Shaikh Sadiqur Rahman,d2bf5891-6648-4819-8e29-68aa2d3ab494,Missing Pleadings,Action Required,NEED SCHEDULING ORDER
+motion_26,Deposition - Spencer v. Urban Air,Spencer v. Urban Air,fdc93255-1f69-4ad2-9974-976c8c0fcd96,Deposition,Scheduled,Corp rep - in progress. OC finding date before 5/6.
+motion_27,Hearing - Spencer v. Urban Air,Spencer v. Urban Air,fdc93255-1f69-4ad2-9974-976c8c0fcd96,Hearing,Pending,PRE-HEARING MATERIALS DUE 5/20/25
+motion_28,Motion - William Jones,William Jones,2aa91ebb-18fe-4137-9eef-489fcde0d3bf,Motion,Pending,Stike arbitrators 5/9
+motion_29,Missing Pleadings - William Jones,William Jones,2aa91ebb-18fe-4137-9eef-489fcde0d3bf,Missing Pleadings,Action Required,NEED SCHEDULING ORDER
+motion_30,Missing Pleadings - Scott Bartling,Scott Bartling,db8e452d-fe3d-466a-a372-3c1e4b76359a,Missing Pleadings,Action Required,NEED SCHEDULING ORDER
+motion_31,Mediation Status - Derek Moore,Derek Moore,728c5cd9-c8db-4e05-b7b8-0d72c8804f4e,Mediation,Pending,Not scheduled.
+motion_32,Missing Pleadings - Derek Moore,Derek Moore,728c5cd9-c8db-4e05-b7b8-0d72c8804f4e,Missing Pleadings,Action Required,NEED SCHEDULING ORDER
+motion_33,Motion - Mahir Ahmad Amiri,Mahir Ahmad Amiri,ed812a13-51cb-47ad-9cc6-4f66a900165c,Motion,Pending,TRIAL 10/6/25
+motion_34,Motion - Tava Romaine,Tava Romaine,83c4bee8-e15b-48cb-b25d-5e182b8116b6,Motion,Pending,WAITING ON ORDER ON MSJ
